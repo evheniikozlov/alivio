@@ -195,7 +195,6 @@ body {
 }
 .button_empty {
   color: #000;
-  background: rgba(0, 0, 0, 0);
 }
 .button_empty:hover {
   color: #01996d;
